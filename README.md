@@ -1,2 +1,3 @@
 # webpack-config
-configuring webpack
+configuring webpack.
+Start with nothing. Leave with boilerplate independence.

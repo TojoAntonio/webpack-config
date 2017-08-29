@@ -1,0 +1,15 @@
+{
+    "name": "webpack-academy-one",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Tojo Andriamanga",
+    "license": "MIT",
+    "scripts": {
+        "build": "webpack",
+        "watch": "webpack --watch"
+    },
+    "devDependencies": {
+        "file-loader": "^0.11.2",
+        "webpack": "^3.3.0"
+    }
+}
